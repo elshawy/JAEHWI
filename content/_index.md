@@ -48,83 +48,87 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Site effect assessment of the Nakdonggang delta sediments using a depth-dependent shear wave velocity model - Oral
+          company: Earthquake Engineering Society of Korea 2023 Workshop
           company_url: ''
           company_logo: ''
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+          location: Jeju-do, Korea
+          date_start: '2023-09-13'
+          date_end: '2023-09-13'
+          description: Jaehwi Kim, Junsu Oh and seokho Jeong
+             
+    
+        - title: Site effect assessment of the Late-Quaternary sediments in the Nakdonggang delta region using HVSR and MAM techniques - Oral
+          company: Busan/Ulsan/Gyeongnam Branch Convention of Korean Society of Civil Engineers
           company_url: ''
           company_logo: ''
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-        - title: Professor of Semiconductor Physics
-          company: University X
+          location: Busan, Korea 
+          date_start: '2023-09-01'
+          date_end: '2023-09-01'
+          description: Jaehwi Kim and Seokho Jeong
+    
+        - title: Prediction of ground motion in South Korea based on hybrid broadband ground motion simulation
+          company: IUGG
           company_url: ''
           company_logo: ''
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-        - title: Professor of Semiconductor Physics
-          company: University X
+          location: Berlin, Germany
+          date_start: '2023-07-13'
+          date_end: '2023-07-13'
+          description: S.Jeong, S.E. Bae, J.H. Kim, B.A. Bradley
+    
+        - title: A shear wave velocity model of Gimhae Plains sediments based on the Microtremor Array Method - Oral
+          company: KSCE Convention
           company_url: ''
           company_logo: ''
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-        - title: Professor of Semiconductor Physics
-          company: University X
+          location: Busan, Korea
+          date_start: '2022-10-18'
+          date_end: '2022-10-18'
+          description: Jaehwi Kim and Seokho Jeong
+    
+        - title: Prediction of ground motion in South Korea based on physics-based broadband simulation
+          company: SCEC Annual Meeting
           company_url: ''
           company_logo: ''
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-        - title: Professor of Semiconductor Physics
-          company: University X
+          location: Palm Springs, United States
+          date_start: '2022-09-11'
+          date_end: '2022-09-11'
+          description: Seokho Jeong, Sung Bae, JaeHwi Kim, Kwangyoung Kim
+    
+        - title: Broadband Physics-based strong ground motion simulations for the southern Korean Peninsula
+          company: QuakeCoRE Annual Meeting
           company_url: ''
           company_logo: ''
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-        - title: Professor of Semiconductor Physics
-          company: University X
+          location: Napier, New Zealand
+          date_start: '2022-08-30'
+          date_end: '2022-08-30'
+          description: S.Bae, S.Jeong, J.Kim, K.Kim
+    
+        - title: Characterization of dynamic site properties in the Gimhae Plains using the Microtremor Array Method and the Horizontal-to-Vertical Spectral Ratio method - Poster
+          company: QuakeCoRE Annual Meeting
           company_url: ''
           company_logo: ''
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Napier, New Zealand
+          date_start: '2022-08-30'
+          date_end: '2022-08-30'
+          description:Jaehwi Kim and Seokho Jeong.
+    
         - title: Characterization of shear wave velocity in the Gimhae Plains using the Microtremor Array Method
           company: KGS Spring National Conference
           company_url: ''
           company_logo: ''
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description:  Authors '-' Seokho Jeong and  Jaehwi Kim. 
+          location: Seoul, Korea
+          date_start: '2022-03-16'
+          date_end: '2022-03-16'
+          description:  Seokho Jeong and  Jaehwi Kim.
+    
         - title: Estimation of velocity structures in the Gimhae Plains using horizontal-to-vertical spectral ratios from microtremors - Oral
           company: KGS Fall National Conference
           company_url: ''
           company_logo: ''
           location: Seoul, Korea
           date_start: '2021-10-01'
-          
-          description: Authors '-' Jaehwi Kim and Seokho Jeong.    
+          date_end: '2021-10-01'
+          description: Jaehwi Kim and Seokho Jeong.    
     design:
       columns: '2'
   - block: accomplishments
