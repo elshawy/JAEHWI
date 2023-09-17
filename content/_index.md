@@ -11,6 +11,22 @@ sections:
       title : Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: experience
+    id: Projects
+    content:
+      title: Projects
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+    
+    design:
+      columns: '1'
 
     
 
