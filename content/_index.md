@@ -21,7 +21,7 @@ sections:
           icon: python
           icon_pack: fab
         - name: Program
-          description: Geopsy \ Dinver \ PySeismoSoil \ DEEPSOIL
+          description: - Geopsy \ - Dinver \ - PySeismoSoil \ - DEEPSOIL
           icon: computer
           icon_pack: fas
         - name: Geophysical Exploration
