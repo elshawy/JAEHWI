@@ -30,7 +30,7 @@ interests:
   - Geotechnical Earthquake Engineering
   - Geophysical Expolaration
   - Ground Motion Simulation
-  - Seismic Hazard
+  - Seismic Hazard Assessment
 
 # Education to show in About widget
 education:
