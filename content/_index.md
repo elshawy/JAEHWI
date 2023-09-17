@@ -25,7 +25,7 @@ sections:
           icon: computer
           icon_pack: fas
         - name: Geophysical Exploration
-          description:  Surface Wave Inversion \  HVSR
+          description:  HVSR \ Surface Wave Inversion
           icon: magnifying-glass
           icon_pack: fas
   - block: experience
