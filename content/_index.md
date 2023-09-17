@@ -18,7 +18,7 @@ sections:
       items:
         - name: Python
           description : Obspy, Scipy
-          icon: fa-python
+          icon: python
           icon_pack: fab
         - name: Program
           description: Geopsy, Dinver
