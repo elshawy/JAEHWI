@@ -36,7 +36,7 @@ education:
   courses:
     - course: PhD in Civil Engeineering
       institution: Changwon National University
-      year: Present
+      year: ~ Present
     - course: MEng in Civil Engeineering
       institution: Changwon National University
       year: 2023
