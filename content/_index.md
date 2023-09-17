@@ -80,7 +80,7 @@ sections:
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
-          company_logo: org-x
+          company_logo: ''
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
@@ -121,10 +121,10 @@ sections:
           company: KGS Fall National Conference
           company_url: ''
           company_logo: ''
-          location: Seoul,Korea
+          location: Seoul, Korea
           date_start: '2021-10-01'
           date_end: '2021-10-01'
-          description: Jaehwi Kim and Seokho Jeong.    
+          description: Authors : Jaehwi Kim and Seokho Jeong.    
     design:
       columns: '2'
   - block: accomplishments
