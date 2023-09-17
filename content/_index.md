@@ -162,7 +162,7 @@ sections:
           description: Jaehwi Kim
           organization: Master's Thesis
           organization_url:  
-          title: Blockchain Fundamentals
+          title: Characterization of dynamic site properties in the Gimhae Plains using the Microtremor Array Method and the Horizontal-to-Vertical Spectral Ratio method
           url: 
     
         - certificate_url: https://doi.org/10.7843/kgs.2022.38.8.17
