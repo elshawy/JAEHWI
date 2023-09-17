@@ -178,8 +178,8 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text:        
+      subtitle: Please contact me by follwing e-mail.
+      text:    
       # Contact (add or remove contact options as necessary)
       email: 20143041@changwon.ac.kr
       address:
