@@ -18,15 +18,19 @@ sections:
       title: Skills
       items:
         - name: Coding
-          description: Python (Obspy, Scipy, Basemap)
+          description: * Python (Obspy, Scipy, Basemap)
           icon: python
           icon_pack: fab
         - name: Program
-          description:  Geopsy \  Dinver \  PySeismoSoil \  DEEPSOIL
+          description:
+              * Geopsy
+              * Dinver 
+              * PySeismoSoil 
+              * DEEPSOIL
           icon: computer
           icon_pack: fas
         - name: Geophysical Exploration
-          description:  HVSR \ Surface Wave Inversion
+          description:  * Surface Wave Inversion
           icon: magnifying-glass
           icon_pack: fas
   - block: experience
