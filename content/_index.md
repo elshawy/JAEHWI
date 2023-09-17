@@ -156,19 +156,19 @@ sections:
           title: Neural Networks and Deep Learning
           url: ''
     
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://doi.org/10.7843/kgs.2022.38.8.17
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
+          date_start: '2023-02-01'
+          description: Jaehwi Kim
+          organization: Master's Thesis
+          organization_url:  
           title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url: 
     
         - certificate_url: https://doi.org/10.7843/kgs.2022.38.8.17
-          date_end: '2022-08-31'
+          date_end: 
           date_start: '2022-08-31'
-          description: ''
+          description: 'Jaehwi Kim and Seokho Jeong'
           organization: Journal of the Korean Geotechnical Society
           organization_url: 
           title: 'Characterization of Deep Shear Wave Velocity Profiles in the Gimhae Plains Using the Microtremor Array Method'
