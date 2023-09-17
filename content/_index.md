@@ -25,7 +25,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Ground Properties Collection for the Construction of Ground Motion Simulation in Busan, South Korea
-          company: R&D Management Agency: Korea Meteorological Institute (한국기상산업기술원), Assistant Researcher
+          company: 'R&D Management Agency: Korea Meteorological Institute (한국기상산업기술원), Assistant Researcher'
           date_start: '2020-06-01'
           date_end: '2022-08-31'
           description: ''
