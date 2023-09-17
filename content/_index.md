@@ -110,7 +110,7 @@ sections:
           location: Napier, New Zealand
           date_start: '2022-08-30'
           date_end: '2022-08-30'
-          description:Jaehwi Kim and Seokho Jeong.
+          description: Jaehwi Kim and Seokho Jeong.
     
         - title: Characterization of shear wave velocity in the Gimhae Plains using the Microtremor Array Method
           company: KGS Spring National Conference
