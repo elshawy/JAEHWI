@@ -25,10 +25,10 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Ground Properties Collection for the Construction of Ground Motion Simulation in Busan, South Korea
-          company: Changwon National University
+          company: R&D Management Agency: Korea Meteorological Institute (한국기상산업기술원), Assistant Researcher
           date_start: '2020-06-01'
           date_end: '2022-08-31'
-          description: R&D Management Agency: Korea Meteorological Institute (한국기상산업기술원), Assistant Researcher
+          description: 
         - title: Determining the Seismic Amplification Characteristics of Moderate and Minor Earthquake-Prone Areas Based on Microtremor and Small Scale Earthquake Data
           company: Changwon National University
           date_start: '2020-06-01'
