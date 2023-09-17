@@ -31,7 +31,7 @@ sections:
           icon: computer
           icon_pack: fas
         - name: Geophysical Exploration
-          description:  * Surface Wave Inversion
+          description: |2- * Surface Wave Inversion
           icon: magnifying-glass
           icon_pack: fas
   - block: experience
