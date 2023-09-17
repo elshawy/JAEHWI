@@ -18,11 +18,12 @@ sections:
       title: Skills
       items:
         - name: Coding
-          description: * Python (Obspy, Scipy, Basemap)
+          description: |2-
+                * Python (Obspy, Scipy, Basemap)
           icon: python
           icon_pack: fab
         - name: Program
-          description:
+          description: |2-
               * Geopsy
               * Dinver 
               * PySeismoSoil 
