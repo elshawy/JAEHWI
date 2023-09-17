@@ -19,7 +19,7 @@ sections:
       items:
         - name: Coding
           description: |2-
-          * Python (Obspy, Scipy, Basemap)
+           * Python (Obspy, Scipy, Basemap)
           icon: python
           icon_pack: fab
         - name: Program
