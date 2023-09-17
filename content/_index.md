@@ -16,7 +16,7 @@ sections:
     content:
       title: Skills
       items:
-        - name: Coding
+        - name: Python
           description: - Obspy \ - Scipy
           icon: python
           icon_pack: fab
