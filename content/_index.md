@@ -18,7 +18,7 @@ sections:
       title: Skills
       items:
         - name: Coding
-          description: |2-
+          description: |
               * Python (Obspy, Scipy, Basemap)
           icon: python
           icon_pack: fab
@@ -31,7 +31,7 @@ sections:
           icon: computer
           icon_pack: fas
         - name: Geophysical Exploration
-          description: |2-
+          description: |
               * Surface Wave Inversion
           icon: magnifying-glass
           icon_pack: fas
