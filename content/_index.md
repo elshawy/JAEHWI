@@ -74,7 +74,7 @@ sections:
           location: Berlin, Germany
           date_start: '2023-07-13'
           date_end: '2023-07-13'
-          description: S.Jeong, S.E. Bae, J.H. Kim, B.A. Bradley
+          description: S.Jeong, S.E. Bae, J.H. Kim and B.A. Bradley
     
         - title: A shear wave velocity model of Gimhae Plains sediments based on the Microtremor Array Method, Oral
           company: KSCE Convention
@@ -92,7 +92,7 @@ sections:
           location: Palm Springs, United States
           date_start: '2022-09-11'
           date_end: '2022-09-11'
-          description: Seokho Jeong, Sung Bae, JaeHwi Kim, Kwangyoung Kim
+          description: Seokho Jeong, Sung Bae, JaeHwi Kim and Kwangyoung Kim
     
         - title: Broadband Physics-based strong ground motion simulations for the southern Korean Peninsula
           company: QuakeCoRE Annual Meeting
@@ -101,7 +101,7 @@ sections:
           location: Napier, New Zealand
           date_start: '2022-08-30'
           date_end: '2022-08-30'
-          description: S.Bae, S.Jeong, J.Kim, K.Kim
+          description: S.Bae, S.Jeong, J.Kim and K.Kim
     
         - title: Characterization of dynamic site properties in the Gimhae Plains using the Microtremor Array Method and the Horizontal-to-Vertical Spectral Ratio method, Poster
           company: QuakeCoRE Annual Meeting
@@ -119,7 +119,7 @@ sections:
           location: Seoul, Korea
           date_start: '2022-03-16'
           date_end: '2022-03-16'
-          description:  Seokho Jeong and  Jaehwi Kim.
+          description:  Seokho Jeong and Jaehwi Kim.
     
         - title: Estimation of velocity structures in the Gimhae Plains using horizontal-to-vertical spectral ratios from microtremors, Oral
           company: KGS Fall National Conference
