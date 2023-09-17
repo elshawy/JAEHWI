@@ -48,7 +48,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Site effect assessment of the Nakdonggang delta sediments using a depth-dependent shear wave velocity model - Oral
+        - title: Site effect assessment of the Nakdonggang delta sediments using a depth-dependent shear wave velocity model, Oral
           company: Earthquake Engineering Society of Korea 2023 Workshop
           company_url: ''
           company_logo: ''
@@ -58,7 +58,7 @@ sections:
           description: Jaehwi Kim, Junsu Oh and seokho Jeong
              
     
-        - title: Site effect assessment of the Late-Quaternary sediments in the Nakdonggang delta region using HVSR and MAM techniques - Oral
+        - title: Site effect assessment of the Late-Quaternary sediments in the Nakdonggang delta region using HVSR and MAM techniques, Oral
           company: Busan/Ulsan/Gyeongnam Branch Convention of Korean Society of Civil Engineers
           company_url: ''
           company_logo: ''
@@ -76,7 +76,7 @@ sections:
           date_end: '2023-07-13'
           description: S.Jeong, S.E. Bae, J.H. Kim, B.A. Bradley
     
-        - title: A shear wave velocity model of Gimhae Plains sediments based on the Microtremor Array Method - Oral
+        - title: A shear wave velocity model of Gimhae Plains sediments based on the Microtremor Array Method, Oral
           company: KSCE Convention
           company_url: ''
           company_logo: ''
@@ -103,7 +103,7 @@ sections:
           date_end: '2022-08-30'
           description: S.Bae, S.Jeong, J.Kim, K.Kim
     
-        - title: Characterization of dynamic site properties in the Gimhae Plains using the Microtremor Array Method and the Horizontal-to-Vertical Spectral Ratio method - Poster
+        - title: Characterization of dynamic site properties in the Gimhae Plains using the Microtremor Array Method and the Horizontal-to-Vertical Spectral Ratio method, Poster
           company: QuakeCoRE Annual Meeting
           company_url: ''
           company_logo: ''
@@ -121,7 +121,7 @@ sections:
           date_end: '2022-03-16'
           description:  Seokho Jeong and  Jaehwi Kim.
     
-        - title: Estimation of velocity structures in the Gimhae Plains using horizontal-to-vertical spectral ratios from microtremors - Oral
+        - title: Estimation of velocity structures in the Gimhae Plains using horizontal-to-vertical spectral ratios from microtremors, Oral
           company: KGS Fall National Conference
           company_url: ''
           company_logo: ''
