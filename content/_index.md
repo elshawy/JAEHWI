@@ -17,9 +17,7 @@ sections:
       title: Skills
       items:
         - name: Python
-          description:
-          - Obspy
-          - Scipy
+          description:Obspy, Scipy
           icon: r-project
           icon_pack: fab
         - name: Program
