@@ -26,10 +26,10 @@ bio: My research interests include Earthquake Engineering, Geophysical Expolarat
 
 # Interests to show in About widget
 interests:
-  - Earthquake Engineering
-  - Geophysical Expolaration
-  - Ground Motion Simulation
-  - Seismic Hazard
+  * Earthquake Engineering
+  * Geophysical Expolaration
+  * Ground Motion Simulation
+  * Seismic Hazard
 
 # Education to show in About widget
 education:
