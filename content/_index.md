@@ -50,7 +50,7 @@ sections:
           date_end: ''
           description: ''
         - title: Validation and Enhancement of a 3D Physics-Based Ground Motion Simulation Platform for Seismic Hazard Quantification in the Korean Peninsula
-          company: 'R&D Management Agency : Korea Meteorological Institute, Participant'
+          company: 'R&D Management Agency :Korea Institute of Science and Technology Information, Participant'
           date_start: '2023-01-01'
           date_end: ''
           description: ''
