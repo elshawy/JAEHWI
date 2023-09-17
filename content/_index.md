@@ -49,7 +49,8 @@ sections:
           date_end: ''
           description: Principal Researcher
     design:
-      columns: '2'
+      columns: '1'
+    
   - block: features
     id: features
     content:
