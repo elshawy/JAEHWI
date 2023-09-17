@@ -48,7 +48,7 @@ sections:
           company: Changwon National University
           date_start: '2023-03-01'
           date_end: ''
-          description: Principal Researcher
+          description: Principal Investigator
     design:
       columns: '1'
 
