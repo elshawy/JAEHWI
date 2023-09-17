@@ -147,13 +147,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://doi.org/10.3390/geotechnics3030030
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          date_start: '2023-06-21'
+          description: 'Kim, J.; Heo, G.; Kwak, D.; Jeong, S
+          organization: Geotechnics
+          organization_url:  
+          title: The Relationship between Bedrock Depth and Site Fundamental Frequency in the Nakdonggang Delta Region,South Korea
           url: ''
     
         - certificate_url: https://doi.org/10.7843/kgs.2022.38.8.17
