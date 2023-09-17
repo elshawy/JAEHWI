@@ -68,7 +68,7 @@ sections:
           description: Jaehwi Kim and Seokho Jeong
     
         - title: Prediction of ground motion in South Korea based on hybrid broadband ground motion simulation
-          company: IUGG
+          company: IUGG(International Union of Geodesy and Geophysics)
           company_url: ''
           company_logo: ''
           location: Berlin, Germany
