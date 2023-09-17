@@ -29,6 +29,11 @@ sections:
           date_start: '2020-06-01'
           date_end: '2022-08-31'
           description: Assistant Researcher
+        - title: Determining the Seismic Amplification Characteristics of Moderate and Minor Earthquake-Prone Areas Based on Microtremor and Small Scale Earthquake Data
+          company: Changwon National University
+          date_start: '2020-06-01'
+          date_end: '2023-02-28'
+          description: Assistant Researcher
     design:
       columns: '1'
 
