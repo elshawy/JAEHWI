@@ -124,7 +124,7 @@ sections:
           location: Seoul, Korea
           date_start: '2021-10-01'
           date_end: '2021-10-01'
-          description: Authors : Jaehwi Kim and Seokho Jeong.    
+          description: Authors - Jaehwi Kim and Seokho Jeong.    
     design:
       columns: '2'
   - block: accomplishments
