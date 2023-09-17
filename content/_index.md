@@ -27,7 +27,7 @@ sections:
               Geopsy\
               Dinver\
               PySeismoSoil\
-              DEEPSOIL\
+              DEEPSOIL
           icon: computer
           icon_pack: fas
         - name: Geophysical Exploration
