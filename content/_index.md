@@ -23,7 +23,7 @@ sections:
           icon: python
           icon_pack: fab
         - name: Program
-          description: |2+
+          description: |
               * Geopsy
               * Dinver 
               * PySeismoSoil 
