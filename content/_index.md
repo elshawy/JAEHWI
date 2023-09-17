@@ -165,13 +165,13 @@ sections:
           title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - certificate_url: https://doi.org/10.7843/kgs.2022.38.8.17
+          date_end: '2022-08-31'
+          date_start: '2022-08-31'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: Journal of the Korean Geotechnical Society
+          organization_url: 
+          title: 'Characterization of Deep Shear Wave Velocity Profiles in the Gimhae Plains Using the Microtremor Array Method'
           url: ''
     design:
       columns: '2'
