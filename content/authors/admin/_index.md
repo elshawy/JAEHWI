@@ -27,7 +27,7 @@ bio: My research interests include Earthquake Engineering, Geophysical Expolarat
 # Interests to show in About widget
 interests:
 
-  - Earthquake Engineering
+  - Geotechnical Earthquake Engineering
   - Geophysical Expolaration
   - Ground Motion Simulation
   - Seismic Hazard
@@ -68,5 +68,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello, I'm Jaehwi Kim, a Ph.D. student at Changwon National University. I specialize in geotechnical earthquake engineering and geophysical exploration of the subsurface. My recent research has focused on topics such as geotechnical earthquake engineering, geophysical exploration, and ground motion simulation. I also have an interest in seismic hazard analysis and probabilistic seismic hazard assessment.
 {style="text-align: justify;"}
