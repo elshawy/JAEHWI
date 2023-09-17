@@ -24,7 +24,11 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-    
+        - title: Ground Properties Collection for the Construction of Ground Motion Simulation in Busan, South Korea
+          company: Changwon National University
+          date_start: '2020-06-01'
+          date_end: '2022-08-31'
+          description: Assistant Researcher
     design:
       columns: '1'
 
