@@ -15,7 +15,6 @@ sections:
   - block: experience
     id: Projects
 
-
      content: 
       title: Projects
       date_format: Jan 2006
