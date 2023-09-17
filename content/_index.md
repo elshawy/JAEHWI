@@ -104,7 +104,7 @@ sections:
       columns: '2'
 
   - block: portfolio
-    id: projects
+    id: portfolio
     content:
       title: Projects
       filters:
