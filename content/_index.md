@@ -147,30 +147,25 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://doi.org/10.3390/geotechnics3030030
-          date_end: ''
+        - date_end: ''
           date_start: '2023-06-21'
-          description: Kim, J. Heo, G. Kwak, D. Jeong, S
+          description: Kim, J. Heo, G. Kwak, D. Jeong, S (doi : https://doi.org/10.3390/geotechnics3030030)
           organization: Geotechnics
           organization_url:  
           title: The Relationship between Bedrock Depth and Site Fundamental Frequency in the Nakdonggang Delta Region,South Korea
           url: ''
     
-        - certificate_url: https://doi.org/10.7843/kgs.2022.38.8.17
-          date_end: ''
+        - date_end: ''
           date_start: '2023-02-01'
-          description: Jaehwi Kim
+          description: Jaehwi Kim (doi : https://doi.org/10.7843/kgs.2022.38.8.17)
           organization: Master's Thesis
           organization_url:  
           title: Characterization of dynamic site properties in the Gimhae Plains using the Microtremor Array Method and the Horizontal-to-Vertical Spectral Ratio method
           url: 
     
-        - certificate_url: 
-          date_end: 
+        - date_end: 
           date_start: '2022-08-31'
-          description: |2-
-                        Jaehwi Kim and Seokho Jeong
-          https://doi.org/10.7843/kgs.2022.38.8.17
+          description: Jaehwi Kim and Seokho Jeong (doi : https://doi.org/10.7843/kgs.2022.38.8.17)
           organization: Journal of the Korean Geotechnical Society
           organization_url: 
           title: 'Characterization of Deep Shear Wave Velocity Profiles in the Gimhae Plains Using the Microtremor Array Method'
