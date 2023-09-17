@@ -110,7 +110,7 @@ sections:
           location: Napier, New Zealand
           date_start: '2022-08-30'
           date_end: '2022-08-30'
-          description: Jaehwi Kim and Seokho Jeong.
+          description: Jaehwi Kim and Seokho Jeong
     
         - title: Characterization of shear wave velocity in the Gimhae Plains using the Microtremor Array Method
           company: KGS Spring National Conference
@@ -119,7 +119,7 @@ sections:
           location: Seoul, Korea
           date_start: '2022-03-16'
           date_end: '2022-03-16'
-          description:  Seokho Jeong and Jaehwi Kim.
+          description:  Seokho Jeong and Jaehwi Kim
     
         - title: Estimation of velocity structures in the Gimhae Plains using horizontal-to-vertical spectral ratios from microtremors, Oral
           company: KGS Fall National Conference
@@ -128,9 +128,11 @@ sections:
           location: Seoul, Korea
           date_start: '2021-10-01'
           date_end: '2021-10-01'
-          description: Jaehwi Kim and Seokho Jeong.    
+          description: Jaehwi Kim and Seokho Jeong  
     design:
       columns: '2'
+
+    
   - block: accomplishments
     id: accomplishments
     content:
@@ -153,6 +155,7 @@ sections:
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
           url: ''
+    
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
@@ -161,6 +164,7 @@ sections:
           organization_url: https://www.edx.org
           title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
