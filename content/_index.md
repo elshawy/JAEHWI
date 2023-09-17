@@ -14,7 +14,7 @@ sections:
       username: admin
 
     
-- block: experience
+ - block: experience
     id: Projects
     content:
       title: Projects
