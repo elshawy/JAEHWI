@@ -16,16 +16,16 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: Python
+          description: Obspy, Scipy
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Program
+          description: Geopsy, Dinver
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Ground Response Analysis
+          description: PySeismoSoil, DEEPSOIL
           icon: camera-retro
           icon_pack: fas
   - block: experience
