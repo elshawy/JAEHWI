@@ -19,20 +19,20 @@ sections:
       items:
         - name: Coding
           description: |
-              * Python (Obspy, Scipy, Basemap)
+              Python (Obspy, Scipy, Basemap)
           icon: python
           icon_pack: fab
         - name: Program
           description: |
-              * Geopsy
-              * Dinver 
-              * PySeismoSoil 
-              * DEEPSOIL
+              Geopsy
+              Dinver 
+              PySeismoSoil 
+              DEEPSOIL
           icon: computer
           icon_pack: fas
         - name: Geophysical Exploration
           description: |
-              * Surface Wave Inversion
+              Surface Wave Inversion
           icon: magnifying-glass
           icon_pack: fas
   - block: experience
