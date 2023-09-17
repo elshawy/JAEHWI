@@ -17,7 +17,7 @@ sections:
     content:
     title:Projects
       date_format: Jan 2006
-      items:
+      items: 
         - title: Ground Properties Collection for the Construction of Ground Motion Simulation in Busan, South Korea
           company: Changwon National University
           date_start: '2020-06-01'
