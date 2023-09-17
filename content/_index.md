@@ -150,7 +150,7 @@ sections:
         - certificate_url: https://doi.org/10.3390/geotechnics3030030
           date_end: ''
           date_start: '2023-06-21'
-          description: 'Kim, J.; Heo, G.; Kwak, D.; Jeong, S
+          description: Kim, J. Heo, G. Kwak, D. Jeong, S
           organization: Geotechnics
           organization_url:  
           title: The Relationship between Bedrock Depth and Site Fundamental Frequency in the Nakdonggang Delta Region,South Korea
