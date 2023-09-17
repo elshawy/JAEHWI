@@ -25,35 +25,35 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Ground Information Collection for the Construction of Ground Motion Simulation in Busan, South Korea
-          company: 'R&D Management Agency: Korea Meteorological Institute (한국기상산업기술원), Assistant Researcher'
+          company: 'R&D Management Agency : Korea Institute of Science and Technology Information, Assistant Researcher'
           date_start: '2020-06-01'
           date_end: '2022-08-31'
           description: ''
         - title: Determining the Seismic Amplification Characteristics of Moderate and Minor Earthquake-Prone Areas Based on Microtremor and Small Scale Earthquake Data
-          company: Changwon National University
+          company: 'R&D Management Agency : National Research Foundation of Korea, Assistant Researcher'
           date_start: '2020-06-01'
           date_end: '2023-02-28'
-          description: Assistant Researcher
+          description: ''
         - title: Experimental Results and Analysis of the Existing Testbed Area for Expanding High-Resolution Seismic Observation Network
-          company: Changwon National University
+          company: 'R&D Management Agency : Korea Meteorological Institute, Assistant Researcher'
           date_start: '2022-10-31'
           date_end: '2022-11-30'
-          description: Assistant Researcher
+          description: ''
         - title: Development of Vibration Amplification Correction Technology Using Real-Time Seismic Observation Data
-          company: Changwon National University
+          company: 'R&D Management Agency : Korea Meteorological Institute, Assistant Researcher'
           date_start: '2023-03-01'
           date_end: ''
-          description: Assistant Researcher
+          description: ''
         - title: Determining Design Ground Motion for the Nakdonggang Delta Region Using Broadband Hybrid Ground Motion Simulation
-          company: Changwon National University
+          company: 'R&D Management Agency : Changwon National University, Principal Investigator'
           date_start: '2023-03-01'
           date_end: ''
-          description: Principal Investigator
+          description: ''
         - title: Validation and Enhancement of a 3D Physics-Based Ground Motion Simulation Platform for Seismic Hazard Quantification in the Korean Peninsula
-          company: Changwon National University
+          company: 'R&D Management Agency : Korea Meteorological Institute, Participant'
           date_start: '2023-01-01'
           date_end: ''
-          description: Participant
+          description: ''
     design:
       columns: '1'
 
