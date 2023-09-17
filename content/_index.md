@@ -170,7 +170,7 @@ sections:
           date_start: '2022-08-31'
           description: |2-
                         Jaehwi Kim and Seokho Jeong
-                         https://doi.org/10.7843/kgs.2022.38.8.17
+          https://doi.org/10.7843/kgs.2022.38.8.17
           organization: Journal of the Korean Geotechnical Society
           organization_url: 
           title: 'Characterization of Deep Shear Wave Velocity Profiles in the Gimhae Plains Using the Microtremor Array Method'
