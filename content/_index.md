@@ -104,14 +104,6 @@ sections:
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
           company_logo: ''
           location: California
           date_start: '2016-01-01'
@@ -124,7 +116,15 @@ sections:
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.    
+          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Estimation of velocity structures in the Gimhae Plains using horizontal-to-vertical spectral ratios from microtremors - Oral
+          company: KGS Fall National Conference
+          company_url: ''
+          company_logo: ''
+          location: Seoul,Korea
+          date_start: '2021-10-01'
+          date_end: '2021-10-01'
+          description: Jaehwi Kim and Seokho Jeong.    
     design:
       columns: '2'
   - block: accomplishments
