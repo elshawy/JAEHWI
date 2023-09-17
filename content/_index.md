@@ -14,7 +14,9 @@ sections:
       username: admin
   - block: experience
     id: Projects
-    content: 
+
+
+     content: 
       title: Projects
       date_format: Jan 2006
       items:
