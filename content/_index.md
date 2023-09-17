@@ -47,6 +47,7 @@ sections:
           date_start: '2023-03-01'
           date_end: ''
           description: Principal Researcher
+    
   - block: features
     id: features
     content:
