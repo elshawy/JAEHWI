@@ -15,7 +15,7 @@ sections:
   - block: experience
     id: Projects
     content:
-    title:Projects
+      title:Projects
       date_format: Jan 2006
       items: 
         - title: Ground Properties Collection for the Construction of Ground Motion Simulation in Busan, South Korea
