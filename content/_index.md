@@ -28,8 +28,7 @@ sections:
           company: Changwon National University
           date_start: '2020-06-01'
           date_end: '2022-08-31'
-          description: |2-
-          R&D Management Agency: Korea Meteorological Institute (한국기상산업기술원), Assistant Researcher
+          description: R&D Management Agency: Korea Meteorological Institute (한국기상산업기술원), Assistant Researcher
         - title: Determining the Seismic Amplification Characteristics of Moderate and Minor Earthquake-Prone Areas Based on Microtremor and Small Scale Earthquake Data
           company: Changwon National University
           date_start: '2020-06-01'
