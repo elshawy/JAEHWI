@@ -13,6 +13,20 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
     
+  - block: experience
+    id: Projects
+    content:
+      title: Projects
+      date_format: Jan 2006
+      items:
+        - title: Site effect assessment of the Nakdonggang delta sediments using a depth-dependent shear wave velocity model, Oral
+          company: Earthquake Engineering Society of Korea 2023 Workshop
+          company_url: ''
+          company_logo: ''
+          location: Jeju-do, Korea
+          date_start: '2023-09-13'
+          date_end: '2023-09-13'
+          description: Jaehwi Kim, Junsu Oh and seokho Jeong  
 
     
   - block: features
