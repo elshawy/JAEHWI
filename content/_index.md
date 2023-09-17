@@ -49,7 +49,7 @@ sections:
           date_end: ''
           description: Principal Researcher
     design:
-      columns: '1'
+      columns: '2'
   - block: features
     id: features
     content:
