@@ -31,7 +31,6 @@ sections:
           company: Changwon National University
           company_url: ''
           company_logo: ''
-          location: 
           date_start: '2020-06-01'
           date_end: '2023-02-28'
           description: Assistant Researcher
@@ -40,7 +39,6 @@ sections:
           company: Changwon National University
           company_url: ''
           company_logo: ''
-          location: 
           date_start: '2022-10-31'
           date_end: '2022-11-30'
           description: Assistant Researcher
@@ -49,18 +47,16 @@ sections:
           company: Changwon National University
           company_url: ''
           company_logo: ''
-          location: 
           date_start: '2023-03-01'
-          date_end: 
+          date_end: ''
           description: Assistant Researcher
     
         - title: Determining Design Ground Motion for the Nakdonggang Delta Region Using Broadband Hybrid Ground Motion Simulation
           company: Changwon National University
           company_url: ''
           company_logo: ''
-          location: 
           date_start: '2023-03-01'
-          date_end: 
+          date_end: ''
           description: Principal Researcher
     
   - block: features
