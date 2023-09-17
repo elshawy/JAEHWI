@@ -13,51 +13,7 @@ sections:
       username: admin
 
     
- - block: experience
-    id: Projects
-    content:
-      title: Projects
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Ground Properties Collection for the Construction of Ground Motion Simulation in Busan, South Korea
-          company: Changwon National University
-          date_start: '2020-06-01'
-          date_end: '2022-08-31'
-          description: Assistant Researcher
-    
-        - title: Determining the Seismic Amplification Characteristics of Moderate and Minor Earthquake-Prone Areas Based on Microtremor and Small Scale Earthquake Data
-          company: Changwon National University
-          date_start: '2020-06-01'
-          date_end: '2023-02-28'
-          description: Assistant Researcher
-    
-       - title: Experimental Results and Analysis of the Existing Testbed Area for Expanding High-Resolution Seismic Observation Network
-          company: Changwon National University
-          date_start: '2022-10-31'
-          date_end: '2022-11-30'
-          description: Assistant Researcher
-         
-        - title: Development of Vibration Amplification Correction Technology Using Real-Time Seismic Observation Data
-          company: Changwon National University
-          date_start: '2023-03-01'
-          date_end: ''
-          description: Assistant Researcher
-    
-        - title: Determining Design Ground Motion for the Nakdonggang Delta Region Using Broadband Hybrid Ground Motion Simulation
-          company: Changwon National University
-          date_start: '2023-03-01'
-          date_end: ''
-          description: Principal Researcher
-    design:
-      columns: '2'
-    
+
   - block: features
     id: features
     content:
