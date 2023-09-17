@@ -165,9 +165,12 @@ sections:
           title: Characterization of dynamic site properties in the Gimhae Plains using the Microtremor Array Method and the Horizontal-to-Vertical Spectral Ratio method
           url: 
     
-        - date_end: 
+        - certificate_url: 
+          date_end: 
           date_start: '2022-08-31'
-          description: 'Jaehwi Kim and Seokho Jeong'
+          description: |2-
+                        Jaehwi Kim and Seokho Jeong
+                         https://doi.org/10.7843/kgs.2022.38.8.17
           organization: Journal of the Korean Geotechnical Society
           organization_url: 
           title: 'Characterization of Deep Shear Wave Velocity Profiles in the Gimhae Plains Using the Microtremor Array Method'
