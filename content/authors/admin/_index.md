@@ -35,13 +35,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Civil Engineering
+    - course: PhD Student in Civil Engineering
       institution: Changwon National University
       year: ~ Present
     - course: MEng in Civil Engineering
       institution: Changwon National University
       year: 2023
-    - course: BSc in Civil Engineering
+    - course: BEng in Civil Engineering
       institution: Changwon National University
       year: 2021
 
