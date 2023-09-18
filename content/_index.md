@@ -25,7 +25,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Ground Information Collection for the Construction of Ground Motion Simulation in Busan, South Korea
-          company: 'R&D Management Agency : Korea Institute of Science and Technology Information, Assistant Researcher'
+          company: 'R&D Management Agency : Korea Institute of Science and Technology Information, Student Researcher'
           date_start: '2020-06-01'
           date_end: '2022-08-31'
           description: ''
@@ -35,12 +35,12 @@ sections:
           date_end: '2023-02-28'
           description: ''
         - title: Experimental Results and Analysis of the Existing Testbed Area for Expanding High-Resolution Seismic Observation Network
-          company: 'R&D Management Agency : Korea Meteorological Institute, Assistant Researcher'
+          company: 'R&D Management Agency : Korea Meteorological Institute, Student Researcher'
           date_start: '2022-10-31'
           date_end: '2022-11-30'
           description: ''
         - title: Development of Vibration Amplification Correction Technology Using Real-Time Seismic Observation Data
-          company: 'R&D Management Agency : Korea Meteorological Institute, Assistant Researcher'
+          company: 'R&D Management Agency : Korea Meteorological Institute, Student Researcher'
           date_start: '2023-03-01'
           date_end: ''
           description: ''
