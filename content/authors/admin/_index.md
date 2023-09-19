@@ -68,5 +68,5 @@ email: '20143041@changwon.ac.kr'
 highlight_name: true
 ---
 
-Hello, I'm Jaehwi Kim, a Ph.D. student at Changwon National University. I specialize in geotechnical earthquake engineering and geophysical exploration of the subsurface. My recent research has focused on topics such as geotechnical earthquake engineering, geophysical exploration, and ground motion simulation. I also have an interest in seismic hazard analysis and probabilistic seismic hazard assessment.
+Hello, I'm Jaehwi Kim, a Ph.D. student at Changwon National University. I specialize in geotechnical earthquake engineering and geophysical exploration of the subsurface. My recent research has focused on topics such as geotechnical earthquake engineering, geophysical exploration, and ground motion simulation. I also have an interest in seismic hazard analysis and probabilistic seismic hazard analysis.
 {style="text-align: justify;"}
