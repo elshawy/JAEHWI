@@ -44,6 +44,7 @@ education:
     - course: BEng in Civil Engineering
       institution: Changwon National University
       year: 2021
+      2nd major: Housing & Urban Development
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
