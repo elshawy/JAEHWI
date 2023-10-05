@@ -201,6 +201,7 @@ sections:
           organization_url:  
           title: Evaluation of Shear Wave Velocity Prediction Models from Standard Penetration Test N Values Depending on Geologic Attributes, A Case Study in Busan, South Korea
           url: ''
+    
         - date_end: ''
           date_start: '2023-06-21'
           description: 'Kim, J. Heo, G. Kwak, D. Jeong, S (doi : https://doi.org/10.3390/geotechnics3030030)'
