@@ -24,22 +24,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Ground Information Collection for the Construction of Ground Motion Simulation in Busan, South Korea
+        - title: Collection of Ground Information for the Establishment of Ground Motion Simulation in Busan, South Korea
           company: 'R&D Management Agency : Korea Institute of Science and Technology Information, Student Researcher'
           date_start: '2020-06-01'
           date_end: '2022-08-31'
           description: ''
-        - title: Determining the Seismic Amplification Characteristics of Moderate and Minor Earthquake-Prone Areas Based on Microtremor and Small Scale Earthquake Data
+        - title: Characterization of Ground Motion Amplification Effect using Ambient Vibration and Regional Earthquakes in Low Seismicity Regions
           company: 'R&D Management Agency : National Research Foundation of Korea, Assistant Researcher'
           date_start: '2020-06-01'
           date_end: '2023-02-28'
           description: ''
-        - title: Experimental Results and Analysis of the Existing Testbed Area for Expanding High-Resolution Seismic Observation Network
+        - title: Experimental Results and Analysis of Active Test in the Testbed Area for High-Resolution Seismic Observation Network Expansion
           company: 'R&D Management Agency : Korea Meteorological Institute, Student Researcher'
           date_start: '2022-10-31'
           date_end: '2022-11-30'
           description: ''
-        - title: Development of Vibration Amplification Correction Technology Using Real-Time Seismic Observation Data
+        - title: Amplification Correction of Seismic Records for Real Time Estimates of the Seismic Intensity
           company: 'R&D Management Agency : Korea Meteorological Institute, Student Researcher'
           date_start: '2023-03-01'
           date_end: ''
@@ -194,6 +194,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - date_end: ''
+          date_start: '2023-10-01'
+          description: 'Heo, G. Kim, J. Jeong, S. Kwak, D (doi : https://doi.org/10.3390/geotechnics3040054)'
+          organization: Geotechnics
+          organization_url:  
+          title: Evaluation of Shear Wave Velocity Prediction Models from Standard Penetration Test N Values Depending on Geologic Attributes: A Case Study in Busan, South Korea
+          url: ''
         - date_end: ''
           date_start: '2023-06-21'
           description: 'Kim, J. Heo, G. Kwak, D. Jeong, S (doi : https://doi.org/10.3390/geotechnics3030030)'
