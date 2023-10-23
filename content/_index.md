@@ -29,9 +29,9 @@ sections:
           date_start: '2020-06-01'
           date_end: '2022-08-31'
           description: |2
-                       '- Geophysical Exploration (HVSR, Surface Wave Inversion)\
+                        - Geophysical Exploration (HVSR, Surface Wave Inversion)\
                         - Data Analysis\
-                        - Development of a 3-D Velocity Model of the southeastern part of the Korean Peninsula for Ground Motion Simulation'
+                        - Development of a 3-D Velocity Model of the southeastern part of the Korean Peninsula for Ground Motion Simulation
     
         - title: Characterization of Ground Motion Amplification Effect using Ambient Vibration and Regional Earthquakes in Low Seismicity Regions
           company: 'R&D Management Agency : National Research Foundation of Korea, Assistant Researcher'
