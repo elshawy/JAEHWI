@@ -47,7 +47,7 @@ sections:
           date_start: '2023-01-01'
           date_end: ''
           description: |2
-                       - Enhancement of a 3-D Velocity Model of the southeastern part of the Korean Peninsula
+                       - Enhancement of a 3D Velocity Model of the southeastern part of the Korean Peninsula
                        - Characterization of Ground Motion Amplification Effect using Ambient Vibration and Regional Earthquakes in Low Seismicity Regions
     
     
@@ -58,7 +58,7 @@ sections:
           description: |2
                         - Geophysical Exploration (HVSR, Surface Wave Inversion)
                         - Data Analysis
-                        - Development of a fundamental frequency map of the the southeastern part of the Korean Peninsula (Kriging)
+                        - Development of a fundamental frequency map of the southeastern part of the Korean Peninsula (Kriging)
     
         - title: Experimental Results and Analysis of Active Test in the Testbed Area for High-Resolution Seismic Observation Network Expansion
           company: 'R&D Management Agency : Korea Meteorological Institute, Student Researcher'
@@ -74,8 +74,8 @@ sections:
           description: |2
                         - Geophysical Exploration (HVSR, Surface Wave Inversion)
                         - Data Analysis
-                        - Development of a 3-D Velocity Model of the southeastern part of the Korean Peninsula for Ground Motion Simulation
-    design:
+                        - Development of a 3D Velocity Model of the southeastern part of the Korean Peninsula for Ground Motion Simulation
+  design:
       columns: '1'
 
     
