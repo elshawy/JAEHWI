@@ -24,13 +24,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Ground Information Collection for the Construction o f Ground Motion Simulation in Busan, South Korea
+        - title: Ground Information Collection for the Construction of Ground Motion Simulation in Busan, South Korea
           company: 'R&D Management Agency : Korea Institute of Science and Technology Information, Student Researcher'
           date_start: '2020-06-01'
           date_end: '2022-08-31'
           description: '- Geophysical Exploration (HVSR, Surface Wave Inversion)'
                        '- Data Analysis'
                        '- Development of a 3-D Velocity Model of the southeastern part of the Korean Peninsula for Ground Motion Simulation'
+    
         - title: Characterization of Ground Motion Amplification Effect using Ambient Vibration and Regional Earthquakes in Low Seismicity Regions
           company: 'R&D Management Agency : National Research Foundation of Korea, Assistant Researcher'
           date_start: '2020-06-01'
