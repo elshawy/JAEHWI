@@ -95,6 +95,24 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Validation of Hybrid Ground Motion Simulation for Engineering Application in South Korea
+          company: Future Directions Physics-Based Ground-Motion Modeling, Seismological Society of America
+          company_url: ''
+          company_logo: ''
+          location: Vancouver, Canada
+          date_start: '2023-10-13'
+          date_end: '2023-10-13'
+          description: S.Jeong, J.Kim, J.Oh, S.Bae and B.Bradley
+    
+        - title: Simplified 3D Basin Velocity Model of the Nakdonggang Delta Region, South Korea, Developed by HVSR and MAM
+          company: Future Directions Physics-Based Ground-Motion Modeling, Seismological Society of America
+          company_url: ''
+          company_logo: ''
+          location: Vancouver, Canada
+          date_start: '2023-10-12'
+          date_end: '2023-10-12'
+          description: S.Jeong, J.Kim, G.Heo and D.Kwak
+    
         - title: Site effect assessment of the Nakdonggang delta sediments using a depth-dependent shear wave velocity model, Oral
           company: Earthquake Engineering Society of Korea 2023 Workshop
           company_url: ''
