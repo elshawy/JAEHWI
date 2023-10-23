@@ -24,7 +24,50 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Ground Information Collection for the Construction of Ground Motion Simulation in Busan, South Korea
+         - title: Amplification Correction of Seismic Records for Real Time Estimates of the Seismic Intensity
+          company: 'R&D Management Agency : Korea Meteorological Institute, Student Researcher'
+          date_start: '2023-03-01'
+          date_end: ''
+          description: |2
+                        - Review of Current Alert and Forecasting Criteria in Korea and Abroad
+                        - Investigation of the Operation Patterns and Characteristics of the Seismic Observation Stations
+                        - Comparison of Real-Time Seismic Information Processing Algorithms
+    
+        - title: Determining Design Ground Motion for the Nakdonggang Delta Region Using Broadband Hybrid Ground Motion Simulation
+          company: 'R&D Management Agency : Changwon National University, Principal Investigator'
+          date_start: '2023-03-01'
+          date_end: ''
+          description: |2
+                       - Collection of Data Related to Current Seismic Design Standards in South Korea and Abroad
+                       - Broadband Hybrid Ground Motion Simulation (Virtual Earthquake Scenario Setup and Execution)
+                       - Ground Response Analysis (DEEPSOIL, PySeismoSoil)
+    
+        - title: Validation and Enhancement of a 3D Physics-Based Ground Motion Simulation Platform for Seismic Hazard Quantification in the Korean Peninsula
+          company: 'R&D Management Agency :Korea Institute of Science and Technology Information, Participant'
+          date_start: '2023-01-01'
+          date_end: ''
+          description: |2
+                       - Enhancement of a 3-D Velocity Model of the southeastern part of the Korean Peninsula
+                       - Characterization of Ground Motion Amplification Effect using Ambient Vibration and Regional Earthquakes in Low Seismicity Regions
+    
+    
+        - title: Characterization of Ground Motion Amplification Effect using Ambient Vibration and Regional Earthquakes in Low Seismicity Regions
+          company: 'R&D Management Agency : National Research Foundation of Korea, Assistant Researcher'
+          date_start: '2020-06-01'
+          date_end: '2023-02-28'
+          description: |2
+                        - Geophysical Exploration (HVSR, Surface Wave Inversion)
+                        - Data Analysis
+                        - Development of a fundamental frequency map of the the southeastern part of the Korean Peninsula (Kriging)
+    
+        - title: Experimental Results and Analysis of Active Test in the Testbed Area for High-Resolution Seismic Observation Network Expansion
+          company: 'R&D Management Agency : Korea Meteorological Institute, Student Researcher'
+          date_start: '2022-10-31'
+          date_end: '2022-11-30'
+          description: |2
+                        - Geophysical Exploration (HVSR, Surface Wave Inversion)
+                        - Data Analysis
+        - title: Collection of Ground Information for the Establishment of Ground Motion Simulation in Busan, South Korea
           company: 'R&D Management Agency : Korea Institute of Science and Technology Information, Student Researcher'
           date_start: '2020-06-01'
           date_end: '2022-08-31'
@@ -33,31 +76,8 @@ sections:
                         - Data Analysis
                         - Development of a 3-D Velocity Model of the southeastern part of the Korean Peninsula for Ground Motion Simulation
     
-        - title: Characterization of Ground Motion Amplification Effect using Ambient Vibration and Regional Earthquakes in Low Seismicity Regions
-          company: 'R&D Management Agency : National Research Foundation of Korea, Assistant Researcher'
-          date_start: '2020-06-01'
-          date_end: '2023-02-28'
-          description: ''
-        - title: Experimental Results and Analysis of Active Test in the Testbed Area for High-Resolution Seismic Observation Network Expansion
-          company: 'R&D Management Agency : Korea Meteorological Institute, Student Researcher'
-          date_start: '2022-10-31'
-          date_end: '2022-11-30'
-          description: ''
-        - title: Amplification Correction of Seismic Records for Real Time Estimates of the Seismic Intensity
-          company: 'R&D Management Agency : Korea Meteorological Institute, Student Researcher'
-          date_start: '2023-03-01'
-          date_end: ''
-          description: ''
-        - title: Determining Design Ground Motion for the Nakdonggang Delta Region Using Broadband Hybrid Ground Motion Simulation
-          company: 'R&D Management Agency : Changwon National University, Principal Investigator'
-          date_start: '2023-03-01'
-          date_end: ''
-          description: ''
-        - title: Validation and Enhancement of a 3D Physics-Based Ground Motion Simulation Platform for Seismic Hazard Quantification in the Korean Peninsula
-          company: 'R&D Management Agency :Korea Institute of Science and Technology Information, Participant'
-          date_start: '2023-01-01'
-          date_end: ''
-          description: ''
+
+
     design:
       columns: '1'
 
