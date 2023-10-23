@@ -31,6 +31,7 @@ interests:
   - Geophysical Expolaration
   - Ground Motion Simulation
   - Seismic Hazard Assessment
+  - Probabilistic Seismic Hazard Analysis
 
 # Education to show in About widget
 education:
