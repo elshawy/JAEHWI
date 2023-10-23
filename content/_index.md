@@ -66,7 +66,7 @@ sections:
       items:
         - name: Programming Language
           description: |
-              Python (Obspy, Scipy, Basemap)
+              Python (Obspy, Scipy, Basemap, PyKrige)
           icon: python
           icon_pack: fab
         - name: Geophysical Software
@@ -79,7 +79,7 @@ sections:
           icon_pack: fas
         - name: Geophysical Exploration
           description: |
-              Surface Wave Inversion
+              Surface Wave Inversion, HVSR
           icon: magnifying-glass
           icon_pack: fas
   - block: experience
