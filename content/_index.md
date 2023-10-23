@@ -75,9 +75,6 @@ sections:
                         - Geophysical Exploration (HVSR, Surface Wave Inversion)
                         - Data Analysis
                         - Development of a 3-D Velocity Model of the southeastern part of the Korean Peninsula for Ground Motion Simulation
-    
-
-
     design:
       columns: '1'
 
