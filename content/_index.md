@@ -48,7 +48,8 @@ sections:
           date_end: ''
           description: |2
                        - Enhancement of a 3D Velocity Model of the southeastern part of the Korean Peninsula
-                       - Characterization of Ground Motion Amplification Effect using Ambient Vibration and Regional Earthquakes in Low Seismicity Regions
+                       - Characterization of Ground Motion Amplification Effect using Ambient Vibration
+                         and Regional Earthquakes in Low Seismicity Regions
     
     
         - title: Characterization of Ground Motion Amplification Effect using Ambient Vibration and Regional Earthquakes in Low Seismicity Regions
