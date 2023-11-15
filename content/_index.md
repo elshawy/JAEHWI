@@ -11,6 +11,54 @@ sections:
       title : Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      - block: accomplishments
+    id: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Publications'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - date_end: ''
+          date_start: '2023-10-01'
+          description: 'Heo, G. Kim, J. Jeong, S. Kwak, D (doi : https://doi.org/10.3390/geotechnics3040054)'
+          organization: Geotechnics
+          organization_url:  
+          title: Evaluation of Shear Wave Velocity Prediction Models from Standard Penetration Test N Values Depending on Geologic Attributes, A Case Study in Busan, South Korea
+          url: ''
+    
+        - date_end: ''
+          date_start: '2023-06-21'
+          description: 'Kim, J. Heo, G. Kwak, D. Jeong, S (doi : https://doi.org/10.3390/geotechnics3030030)'
+          organization: Geotechnics
+          organization_url:  
+          title: The Relationship between Bedrock Depth and Site Fundamental Frequency in the Nakdonggang Delta Region,South Korea
+          url: ''
+    
+        - date_end: ''
+          date_start: '2023-02-01'
+          description: 'Jaehwi Kim (doi : https://doi.org/10.7843/kgs.2022.38.8.17)'
+          organization: Master's Thesis
+          organization_url:  
+          title: Characterization of dynamic site properties in the Gimhae Plains using the Microtremor Array Method and the Horizontal-to-Vertical Spectral Ratio method
+          url: 
+    
+        - date_end: 
+          date_start: '2022-08-31'
+          description: 'Jaehwi Kim and Seokho Jeong (doi : https://doi.org/10.7843/kgs.2022.38.8.17)'
+          organization: Journal of the Korean Geotechnical Society
+          organization_url: 
+          title: 'Characterization of Deep Shear Wave Velocity Profiles in the Gimhae Plains Using the Microtremor Array Method'
+          url: ''
+    design:
+      columns: '2'
+    
   - block: experience
     id: Projects
     content:
@@ -220,53 +268,7 @@ sections:
       columns: '2'
 
     
-  - block: accomplishments
-    id: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Publications'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - date_end: ''
-          date_start: '2023-10-01'
-          description: 'Heo, G. Kim, J. Jeong, S. Kwak, D (doi : https://doi.org/10.3390/geotechnics3040054)'
-          organization: Geotechnics
-          organization_url:  
-          title: Evaluation of Shear Wave Velocity Prediction Models from Standard Penetration Test N Values Depending on Geologic Attributes, A Case Study in Busan, South Korea
-          url: ''
-    
-        - date_end: ''
-          date_start: '2023-06-21'
-          description: 'Kim, J. Heo, G. Kwak, D. Jeong, S (doi : https://doi.org/10.3390/geotechnics3030030)'
-          organization: Geotechnics
-          organization_url:  
-          title: The Relationship between Bedrock Depth and Site Fundamental Frequency in the Nakdonggang Delta Region,South Korea
-          url: ''
-    
-        - date_end: ''
-          date_start: '2023-02-01'
-          description: 'Jaehwi Kim (doi : https://doi.org/10.7843/kgs.2022.38.8.17)'
-          organization: Master's Thesis
-          organization_url:  
-          title: Characterization of dynamic site properties in the Gimhae Plains using the Microtremor Array Method and the Horizontal-to-Vertical Spectral Ratio method
-          url: 
-    
-        - date_end: 
-          date_start: '2022-08-31'
-          description: 'Jaehwi Kim and Seokho Jeong (doi : https://doi.org/10.7843/kgs.2022.38.8.17)'
-          organization: Journal of the Korean Geotechnical Society
-          organization_url: 
-          title: 'Characterization of Deep Shear Wave Velocity Profiles in the Gimhae Plains Using the Microtremor Array Method'
-          url: ''
-    design:
-      columns: '2'
+
 
 
   - block: contact
