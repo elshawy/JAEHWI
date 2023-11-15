@@ -11,7 +11,7 @@ sections:
       title : Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      - block: accomplishments
+  - block: accomplishments
     id: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
