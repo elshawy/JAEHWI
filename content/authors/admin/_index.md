@@ -28,7 +28,7 @@ bio: My research interests include Earthquake Engineering, Geophysical Expolarat
 interests:
 
   - Geotechnical Earthquake Engineering
-  - Geophysical Expolaration
+  - Geophysical Exploration
   - Ground Motion Simulation
   - Seismic Hazard Assessment
   - Probabilistic Seismic Hazard Analysis
