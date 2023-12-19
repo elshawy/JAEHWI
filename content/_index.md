@@ -100,16 +100,15 @@ sections:
                          Regional Earthquakes in Low Seismicity Regions
     
     
-        - title: |2
-                 Characterization of Ground Motion Amplification Effect using Ambient Vibration and
-                 Regional Earthquakes in Low Seismicity Regions
+        - title: Characterization of Ground Motion Amplification Effect using Ambient Vibration and Regional Earthquakes in Low Seismicity Regions
           company: 'R&D Management Agency : National Research Foundation of Korea, Assistant Researcher'
           date_start: '2020-06-01'
           date_end: '2023-02-28'
           description: |2
                         - Geophysical Exploration (HVSR, Surface Wave Inversion)
                         - Data Analysis
-                        - Development of a fundamental frequency map of the southeastern part of the Korean Peninsula (Kriging)
+                        - Development of a fundamental frequency map of the southeastern
+                          part of the Korean Peninsula (Kriging)
     
         - title: Experimental Results and Analysis of Active Test in the Testbed Area for High-Resolution Seismic Observation Network Expansion
           company: 'R&D Management Agency : Korea Meteorological Institute, Student Researcher'
