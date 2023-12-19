@@ -100,8 +100,9 @@ sections:
                          Regional Earthquakes in Low Seismicity Regions
     
     
-        - title: Characterization of Ground Motion Amplification Effect using Ambient Vibration and Regional 
-Earthquakes in Low Seismicity Regions
+        - title: |2
+                 Characterization of Ground Motion Amplification Effect using Ambient Vibration and
+                 Regional Earthquakes in Low Seismicity Regions
           company: 'R&D Management Agency : National Research Foundation of Korea, Assistant Researcher'
           date_start: '2020-06-01'
           date_end: '2023-02-28'
