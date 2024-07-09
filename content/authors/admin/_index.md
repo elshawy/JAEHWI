@@ -18,8 +18,8 @@ role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Changwon National University
-    url: https://www.changwon.ac.kr/eng/
+  - name: University of Canterbury
+    url: https://www.canterbury.ac.nz/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Earthquake Engineering, Geophysical Expolaration, Ground Motion Simulation, Seismic Hazard.
@@ -37,7 +37,7 @@ interests:
 education:
   courses:
     - course: PhD Student in Civil Engineering
-      institution: Changwon National University
+      institution: University of Canterbury
       year: ~ Present
     - course: MEng in Civil Engineering
       institution: Changwon National University
@@ -64,11 +64,11 @@ social:
     link: uploads/CV_J.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: '20143041@changwon.ac.kr'
+email: 'jaehwi.kim@pg.canterbury.ac.nz'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hello, I'm Jaehwi Kim, a Ph.D. student at Changwon National University. I specialize in geotechnical earthquake engineering and geophysical exploration of the subsurface. My recent research has focused on topics such as geotechnical earthquake engineering, geophysical exploration, and ground motion simulation. I also have an interest in seismic hazard analysis and probabilistic seismic hazard analysis.
+Hello, I'm Jaehwi Kim, a Ph.D. student in University of Canterbury. I specialize in geotechnical earthquake engineering and geophysical exploration of the subsurface. My recent research has focused on topics such as geotechnical earthquake engineering, geophysical exploration, and ground motion simulation. I also have an interest in seismic hazard analysis and probabilistic seismic hazard analysis.
 {style="text-align: justify;"}
