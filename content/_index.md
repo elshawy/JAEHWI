@@ -280,13 +280,13 @@ sections:
       subtitle: Please contact me by follwing e-mail.
       text:    
       # Contact (add or remove contact options as necessary)
-      email: 20143041@changwon.ac.kr
+      email: jaehwi.kim@pg.canterbury.ac.nzr
       address:
         
-        city: Changwon
-        region: Gyeongsangnam-do
-        postcode: '51149'
-        country: South Korea
+        city: Christchurch
+        region: 
+        postcode: ''
+        country: NewZealand
         
       
     design:
