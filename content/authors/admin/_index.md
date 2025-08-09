@@ -66,5 +66,5 @@ email: 'jaehwi.kim@pg.canterbury.ac.nz'
 highlight_name: true
 ---
 
-Hello, I'm Jaehwi Kim, a PhD candidate in University of Canterbury. I specialize in geotechnical earthquake engineering and geophysical exploration of the subsurface. My recent research has focused on topics such as geotechnical earthquake engineering, geophysical exploration, and ground motion simulation. I also have an interest in seismic hazard analysis and probabilistic seismic hazard analysis.
+Hello, I'm Jaehwi Kim, a PhD Candidate in University of Canterbury. I specialize in geotechnical earthquake engineering and geophysical exploration of the subsurface. My recent research has focused on topics such as geotechnical earthquake engineering, geophysical exploration, and ground motion simulation. I also have an interest in seismic hazard analysis and probabilistic seismic hazard analysis.
 {style="text-align: justify;"}
