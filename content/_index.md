@@ -107,7 +107,7 @@ sections:
         - title: Amplification Correction of Seismic Records for Real Time Estimates of the Seismic Intensity
           company: 'R&D Management Agency : Korea Meteorological Institute, Student Researcher'
           date_start: '2023-03-01'
-          date_end: ''
+          date_end: '2024-03-01'
           description: |2
                         - Review of Current Alert and Forecasting Criteria in Korea and Abroad
                         - Investigation of the Operation Patterns and Characteristics of the Seismic Observation Stations
@@ -116,7 +116,7 @@ sections:
         - title: Determining Design Ground Motion for the Nakdonggang Delta Region Using Broadband Hybrid Ground Motion Simulation
           company: 'R&D Management Agency : Changwon National University, Principal Investigator'
           date_start: '2023-03-01'
-          date_end: ''
+          date_end: '2024-03-01'
           description: |2
                        - Collection of Data Related to Current Seismic Design Standards in South Korea and Abroad
                        - Broadband Hybrid Ground Motion Simulation (Virtual Earthquake Scenario Setup and Execution)
@@ -125,7 +125,7 @@ sections:
         - title: Validation and Enhancement of a 3D Physics-Based Ground Motion Simulation Platform for Seismic Hazard Quantification in the Korean Peninsula
           company: 'R&D Management Agency :Korea Institute of Science and Technology Information, Participant'
           date_start: '2023-01-01'
-          date_end: ''
+          date_end: '2024-03-01'
           description: |2
                        - Enhancement of a 3D Velocity Model of the southeastern part of the Korean Peninsula
                        - Characterization of Ground Motion Amplification Effect using Ambient Vibration and 
