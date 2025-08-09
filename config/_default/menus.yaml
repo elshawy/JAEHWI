@@ -13,9 +13,6 @@ main:
   - name: Skills
     url: '#features'
     weight: 30
-  - name: Conferences
-    url: '#experience'
-    weight: 40
   - name: Publications
     url: '#accomplishments'
     weight: 50
