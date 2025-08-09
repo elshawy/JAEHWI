@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student
+role: PhD Candiate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,20 +29,19 @@ interests:
 
   - Geotechnical Earthquake Engineering
   - Geophysical Exploration
-  - Ground Motion Simulation
-  - Seismic Hazard Assessment
-  - Probabilistic Seismic Hazard Analysis
+  - Physics-based Ground Motion Simulation
+  - Seismic Hazard Assessment & Analysis
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Student in Civil Engineering
+    - course: PhD Candidate in Earthquake Engineering
       institution: University of Canterbury
       year: ~ Present
-    - course: MEng in Civil Engineering
+    - course: MSc in Civil Engineering
       institution: Changwon National University
       year: 2023
-    - course: BEng in Civil Engineering
+    - course: BSc in Civil Engineering
       institution: Changwon National University
       year: 2021
       2nd major: Housing & Urban Development
@@ -70,5 +69,5 @@ email: 'jaehwi.kim@pg.canterbury.ac.nz'
 highlight_name: true
 ---
 
-Hello, I'm Jaehwi Kim, a Ph.D. student in University of Canterbury. I specialize in geotechnical earthquake engineering and geophysical exploration of the subsurface. My recent research has focused on topics such as geotechnical earthquake engineering, geophysical exploration, and ground motion simulation. I also have an interest in seismic hazard analysis and probabilistic seismic hazard analysis.
+Hello, I'm Jaehwi Kim, a PhD candidate in University of Canterbury. I specialize in geotechnical earthquake engineering and geophysical exploration of the subsurface. My recent research has focused on topics such as geotechnical earthquake engineering, geophysical exploration, and ground motion simulation. I also have an interest in seismic hazard analysis and probabilistic seismic hazard analysis.
 {style="text-align: justify;"}
