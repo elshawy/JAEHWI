@@ -26,6 +26,38 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
+          date_start: '2025-07-01'
+          description: 'Cho, Y. Ahn, S. Lee, J. Kim, J. Kim, B. Jeong, S.(doi : https://doi.org/10.1016/j.kscej.2024.100148)'
+          organization: KSCE Journal of Civil Engineering
+          organization_url:  
+          title: Characteristics of ground motions in the Jeju Island during the 2021 Ml4. 9 Jeju earthquake, South Korea
+          url: ''
+    
+        - date_end: ''
+          date_start: '2025-01-01'
+          description: 'Oh, J. Kim, J. Jeong, S.'
+          organization: Journal of the Earthquake Engineering Society of Korea
+          organization_url:  
+          title: Scenario-Based Liquefaction Assessment of the Nakdonggang Delta Area Using Synthetic Ground Motions
+          url: ''
+    
+        - date_end: ''
+          date_start: '2025-01-01'
+          description: 'Kim, J. Bae, SE. Bradley, BA. Jeong, S.'
+          organization: Journal of the Earthquake Engineering Society of Korea
+          organization_url:  
+          title: Broadband Hybrid Ground Motion Simulation for Earthquake Engineering Applications in South Korea
+          url: ''
+    
+        - date_end: ''
+          date_start: '2024-09-01'
+          description: 'Kim, J. OH, J. Jeong, S.'
+          organization: Journal of the Earthquake Engineering Society of Korea
+          organization_url:  
+          title: Ground Motion Simulation of Scenario Earthquakes in the Nakdonggang Delta Region using a Broadband Hybrid Method and Site Response Analysis
+          url: ''
+
+        - date_end: ''
           date_start: '2023-10-01'
           description: 'Heo, G. Kim, J. Jeong, S. Kwak, D (doi : https://doi.org/10.3390/geotechnics3040054)'
           organization: Geotechnics
