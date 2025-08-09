@@ -170,7 +170,7 @@ sections:
       items:
         - name: Programming Language
           description: |
-              Python (Obspy, Scipy, Basemap, PyKrige)
+              Python
           icon: python
           icon_pack: fab
         - name: Geophysical Software
@@ -194,13 +194,13 @@ sections:
       subtitle: Please contact me by follwing e-mail.
       text:    
       # Contact (add or remove contact options as necessary)
-      email: jaehwi.kim@pg.canterbury.ac.nzr
+      email: jaehwi.kim@pg.canterbury.ac.nz
       address:
         
         city: Christchurch
-        region: 
+        region: Canterbury
         postcode: ''
-        country: NewZealand
+        country: New Zealand
         
       
     design:
